@@ -1,0 +1,4 @@
+repository "FinshingTogetherVer1.0@wechat_os_qy02lpdl9xqgke7uqvaewizfw@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
